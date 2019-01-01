@@ -1,0 +1,11 @@
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.deps.json
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.runtimeconfig.json
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.dll
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\bin\Debug\netcoreapp2.1\Problem3.pdb
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.dll
+C:\Users\Pedro\source\repos\ProjectEuler\Problem3\Problem3\obj\Debug\netcoreapp2.1\Problem3.pdb
